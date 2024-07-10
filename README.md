@@ -26,7 +26,7 @@ This involved accessing data from the ArcGIS Living Atlas of the World. A polar 
 Throughout this process, cartographic skills in ArcGIS Pro were employed to ensure the creation of a professional map layout that communicated the ongoing loss of Arctic sea ice in a clear and impactful manner.
 
 #### *Output:*
-<img src="https://github.com/gausec/GIS/blob/main/Results/Module8_CarolGause.jpg" width="900" height="1100">
+<img src="https://github.com/gausec/GIS/blob/main/Assignments/Module8_CarolGause.jpg" width="900" height="1100">
 
 &nbsp;
 
@@ -35,4 +35,4 @@ For this lesson, I created a map of historic kingdoms in Africa. A list of the o
 
 Tasks included formatting the locations into a table format and geocoding them. Geocoding involved converting location names into map coordinates. The next step was to review the geocoded results, ensuring accuracy by correcting any misplaced locations. Finally, the map presentation was refined and any necessary adjustments were made before this hypothetical map was shared with the theoretical students.
 #### *Output:*
-<img src="https://github.com/gausec/GIS/blob/main/Results/Module12_CarolGause.jpg" width="500" height="600">
+<img src="https://github.com/gausec/GIS/blob/main/Assignments/Module12_CarolGause.jpg" width="500" height="600">
