@@ -21,7 +21,7 @@ $${\color{darkblue}\Huge {Geographic \space Information \space Systems \space Co
 
 ---
 ### Repo Contents
-- **Assignments**: Selected results from GEOG 6401 (and a demonstration of my ArcMap capabilities from a graduate GIS course, GIS 510, taken as an undergraduate at NC State in 2018).
+- **Assignments**: Selected projects from GEOG 6401 (and a demonstration of my ArcMap capabilities from a graduate GIS course, GIS 510, taken as an undergraduate at NC State in 2018).
 ---
 ### Coursework Examples:
 
@@ -30,7 +30,7 @@ In this lesson, I created an educational poster-style map illustrating the signi
 This involved accessing data from the ArcGIS Living Atlas of the World. A polar projection was selected for the map, and the data were reprojected accordingly. Time was spent exploring the dataset to comprehend its attributes. Next, appropriate symbology was chosen to effectively convey the story of sea ice decline. Additionally, base data were symbolized to provide context for the ice data visualizations.
 Throughout this process, cartographic skills in ArcGIS Pro were employed to ensure the creation of a professional map layout that communicated the ongoing loss of Arctic sea ice in a clear and impactful manner.
 
-#### *Output:*
+#### *My result:*
 <img src="https://github.com/gausec/GIS/blob/main/Assignments/Module8_CarolGause.jpg" width="900" height="1100">
 
 &nbsp;
@@ -39,5 +39,5 @@ Throughout this process, cartographic skills in ArcGIS Pro were employed to ensu
 For this lesson, I created a map of historic kingdoms in Africa. A list of the oldest continuously inhabited cities was provided.
 
 Tasks included formatting the locations into a table format and geocoding them. Geocoding involved converting location names into map coordinates. The next step was to review the geocoded results, ensuring accuracy by correcting any misplaced locations. Finally, the map presentation was refined and any necessary adjustments were made before this hypothetical map was shared with the theoretical students.
-#### *Output:*
+#### *My result:*
 <img src="https://github.com/gausec/GIS/blob/main/Assignments/Module12_CarolGause.jpg" width="500" height="600">
