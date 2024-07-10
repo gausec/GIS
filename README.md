@@ -23,7 +23,7 @@ This involved accessing data from the ArcGIS Living Atlas of the World. A polar 
 Throughout this process, cartographic skills in ArcGIS Pro were employed to ensure the creation of a professional map layout that communicated the ongoing loss of Arctic sea ice in a clear and impactful manner.
 
 #### *Output:*
-<img src="https://github.com/gausec/GIS/blob/main/Results/Module8_CarolGause.jpg" width="700" height="900">
+<img src="https://github.com/gausec/GIS/blob/main/Results/Module8_CarolGause.jpg" width="900" height="1100">
 &nbsp;
 
 #### Example:
