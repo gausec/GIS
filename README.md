@@ -21,7 +21,7 @@ $${\color{darkblue}\Huge {Geographic \space Information \space Systems \space Co
 
 ---
 ### Repo Contents
-- **Assignments**: Selected projects from GEOG 6401 (and a demonstration of my ArcMap capabilities from a graduate GIS course, GIS 510, taken as an undergraduate at NC State in 2018).
+- **Assignments**: Selected projects from GEOG 6401 (and a demonstration of my ArcMap capabilities from a graduate GIS course, GIS 510, taken as an undergraduate at NC State University in 2018).
 ---
 ### Coursework Examples:
 
