@@ -1,10 +1,11 @@
+$${\color{darkblue}\Huge {Geographic \space Information \space Systems \space Coursework }}$$   
 
 #### This repository showcases some of the coursework completed for a graduate-level Geographic Information Systems course (GEOG 6401) at East Carolina University under the guidance of Dr. Hannah Sirianni. In this course, I used ArcGIS Pro mapping and analytics GIS desktop software, Adobe Illustrator, and Microsoft Office. 
 #### I acquired a robust understanding of GIS principles and theories essential for mapping and analyzing geographic data. The course honed my proficiency in both basic and advanced ArcGIS Pro functionalities, and it equipped me to critically evaluate literature about GIS and remote sensing-based research.
 
 --- 
 
-#### Course Learning Objectives: 
+### Course Learning Objectives: 
 1. Describe capabilities of ArcGIS Pro and use basic ArcGIS Pro functionality. 
 2. Organize, store, and manage geographic data in a geodatabase.
 3. Solve common coordinate system and map projection issues encountered when working with spatial data.
@@ -19,6 +20,9 @@
 12. Create a multimedia mapping experiences that are entertaining to read.
 
 ---
+### Repo Contents
+- **Assignments**: Selected results from GEOG 6401 (and a demonstration of my ArcMap capabilities from a graduate GIS course, GIS 510, taken as an undergraduate at NC State in 2018).
+  
 &nbsp;
 #### Example:
 In this lesson, I created an educational poster-style map illustrating the significant decline of polar sea ice due to climate change since the twentieth century. Using ArcGIS Pro, the goal was to transform extensive satellite data into a visually compelling narrative.
