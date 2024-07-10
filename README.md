@@ -25,7 +25,7 @@ $${\color{darkblue}\Huge {Geographic \space Information \space Systems \space Co
 ---
 ### Coursework Examples:
 
-#### Example:
+#### Example 1:
 In this lesson, I created an educational poster-style map illustrating the significant decline of polar sea ice due to climate change since the twentieth century. Using ArcGIS Pro, the goal was to transform extensive satellite data into a visually compelling narrative.
 This involved accessing data from the ArcGIS Living Atlas of the World. A polar projection was selected for the map, and the data were reprojected accordingly. Time was spent exploring the dataset to comprehend its attributes. Next, appropriate symbology was chosen to effectively convey the story of sea ice decline. Additionally, base data were symbolized to provide context for the ice data visualizations.
 Throughout this process, cartographic skills in ArcGIS Pro were employed to ensure the creation of a professional map layout that communicated the ongoing loss of Arctic sea ice in a clear and impactful manner.
@@ -35,7 +35,7 @@ Throughout this process, cartographic skills in ArcGIS Pro were employed to ensu
 
 &nbsp;
 
-#### Example:
+#### Example 2:
 For this lesson, I created a map of historic kingdoms in Africa. A list of the oldest continuously inhabited cities was provided.
 
 Tasks included formatting the locations into a table format and geocoding them. Geocoding involved converting location names into map coordinates. The next step was to review the geocoded results, ensuring accuracy by correcting any misplaced locations. Finally, the map presentation was refined and any necessary adjustments were made before this hypothetical map was shared with the theoretical students.
