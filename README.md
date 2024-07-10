@@ -1,7 +1,9 @@
 
 #### This repository showcases some of the coursework completed for a graduate-level Geographic Information Systems course (GEOG 6401) at East Carolina University under the guidance of Dr. Hannah Sirianni. In this course, I used ArcGIS Pro mapping and analytics GIS desktop software, Adobe Illustrator, and Microsoft Office. 
 #### I acquired a robust understanding of GIS principles and theories essential for mapping and analyzing geographic data. The course honed my proficiency in both basic and advanced ArcGIS Pro functionalities, and it equipped me to critically evaluate literature about GIS and remote sensing-based research.
-&nbsp;
+
+--- 
+
 #### Course Learning Objectives: 
 1. Describe capabilities of ArcGIS Pro and use basic ArcGIS Pro functionality. 
 2. Organize, store, and manage geographic data in a geodatabase.
@@ -15,9 +17,9 @@
 10. Demonstrate the ability to write and run geoprocessing scripts in Python. 
 11. Critically evaluate GIS and remote sensing-based research articles.
 12. Create a multimedia mapping experiences that are entertaining to read.
-    
-&nbsp;
 
+---
+&nbsp;
 #### Example:
 In this lesson, I created an educational poster-style map illustrating the significant decline of polar sea ice due to climate change since the twentieth century. Using ArcGIS Pro, the goal was to transform extensive satellite data into a visually compelling narrative.
 This involved accessing data from the ArcGIS Living Atlas of the World. A polar projection was selected for the map, and the data were reprojected accordingly. Time was spent exploring the dataset to comprehend its attributes. Next, appropriate symbology was chosen to effectively convey the story of sea ice decline. Additionally, base data were symbolized to provide context for the ice data visualizations.
