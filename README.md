@@ -22,8 +22,9 @@ $${\color{darkblue}\Huge {Geographic \space Information \space Systems \space Co
 ---
 ### Repo Contents
 - **Assignments**: Selected results from GEOG 6401 (and a demonstration of my ArcMap capabilities from a graduate GIS course, GIS 510, taken as an undergraduate at NC State in 2018).
-  
-&nbsp;
+---
+### Coursework Examples:
+
 #### Example:
 In this lesson, I created an educational poster-style map illustrating the significant decline of polar sea ice due to climate change since the twentieth century. Using ArcGIS Pro, the goal was to transform extensive satellite data into a visually compelling narrative.
 This involved accessing data from the ArcGIS Living Atlas of the World. A polar projection was selected for the map, and the data were reprojected accordingly. Time was spent exploring the dataset to comprehend its attributes. Next, appropriate symbology was chosen to effectively convey the story of sea ice decline. Additionally, base data were symbolized to provide context for the ice data visualizations.
